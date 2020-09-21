@@ -1,6 +1,6 @@
 ### Java base
-1. JDK1.8中HashMap为什么选用红黑树而不用AVL https://blog.csdn.net/zyywolf/article/details/101363793
-2. 深入解析Java反射（1） - 基础  https://www.sczyh30.com/posts/Java/java-reflection-1/
+1. [JDK1.8中HashMap为什么选用红黑树而不用AVL](https://blog.csdn.net/zyywolf/article/details/101363793)
+2. [深入解析Java反射（1）- 基础](https://www.sczyh30.com/posts/Java/java-reflection-1/)
 
 
 
