@@ -1,5 +1,5 @@
 ### Introduction
-1. OSI七层模型
+1. OSI 七层模型
 2. TCP/IP 四层模型
 
 ### Application Layer
